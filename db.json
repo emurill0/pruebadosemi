@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "title": "Pantalón doble",
+      "price": 25,
+      "description": "Ergonómico",
+      "images": [
+        "https://i.imgur.com/mp3rUty.jpeg"
+      ],
+      "id": "2"
+    },
+    {
+      "id": "ca0b",
+      "title": "e",
+      "price": 6,
+      "description": "Discover the perfect blend of style and comfort with our Classic Comfort Fit Joggers. These versatile black joggers feature a soft elastic waistband with an adjustable drawstring, two side pockets, and ribbed ankle cuffs for a secure fit. Made from a lightweight and durable fabric, they are ideal for both active days and relaxed lounging.",
+      "images": [
+        "https://i.imgur.com/mp3rUty.jpeg"
+      ]
+    },
+    {
+      "title": "e",
+      "price": 21,
+      "description": "Discover the perfect blend of style and comfort with our Classic Comfort Fit Joggers. These versatile black joggers feature a soft elastic waistband with an adjustable drawstring, two side pockets, and ribbed ankle cuffs for a secure fit. Made from a lightweight and durable fabric, they are ideal for both active days and relaxed lounging.",
+      "images": [
+        "https://i.imgur.com/yVeIeDa.jpeg"
+      ],
+      "id": "bc01"
+    },
+    {
+      "id": "fdf4",
+      "title": "Emi",
+      "price": 20,
+      "description": "Discover the perfect blend of style and comfort with our Classic Comfort Fit Joggers. These versatile black joggers feature a soft elastic waistband with an adjustable drawstring, two side pockets, and ribbed ankle cuffs for a secure fit. Made from a lightweight and durable fabric, they are ideal for both active days and relaxed lounging.",
+      "images": [
+        "https://i.imgur.com/ZKGofuB.jpeg"
+      ]
+    }
+  ]
+}
